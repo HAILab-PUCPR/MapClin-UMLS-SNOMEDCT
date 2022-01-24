@@ -1,5 +1,7 @@
 # MapClin-UMLS-SNOMEDCT
 
+Em construção.
+
 Mapeamento de termos para UMLS e SNOMED CT.
 
 O código .ipynb possui 3 partes:
