@@ -9,8 +9,7 @@ O código .ipynb possui 3 partes:
 - Função do MapClin;
 - Exemplo de como chamar a função;
 
-São necessários ou 3 arquivos da UMLS (MRCONSO.RRF, MRXW_POR.RRF, MRREL.RRF) ou os arquivos ja preprocessados que estão disponiveis neste link: https://drive.google.com/drive/folders/1jHeFq_wJufGNS4IRaCBCoyszGZaNZuqU?usp=sharing
-
-[I'm an inline-style link](https://www.google.com)
+São necessários ou 3 arquivos da UMLS (MRCONSO.RRF, MRXW_POR.RRF, MRREL.RRF) ou os 6 arquivos ja preprocessados (fortemente recomendado) que estão disponiveis: 
+[AQUI - DOWNLOAD](https://drive.google.com/drive/folders/1jHeFq_wJufGNS4IRaCBCoyszGZaNZuqU?usp=sharing)
 
 É necessário possuir 4GB de RAM livre.
