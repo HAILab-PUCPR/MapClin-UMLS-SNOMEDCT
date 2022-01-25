@@ -6,7 +6,7 @@ Mapeamento de termos para UMLS e SNOMED CT.
 
 O código .ipynb possui 3 partes:
 - Instalação, com os imports e pip install necessários;
-- Função do MapClin;
+- Funções e Classes do MapClin;
 - Exemplo de como chamar a função;
 
 São necessários ou 3 arquivos da UMLS (MRCONSO.RRF, MRXW_POR.RRF, MRREL.RRF) ou os 6 arquivos ja preprocessados (fortemente recomendado) que estão disponiveis: 
