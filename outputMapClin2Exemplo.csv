@@ -1,0 +1,358 @@
+,Termo Buscado,CUI,Termo UMLS,Regra UMLS,Distancia Levenshtein,Codigo SCT,Termo SCT,Estado SCT,Preferencia SCT
+0,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,Cesarean section (procedure),A-Conceito Ativo e Totalmente Especificado,Y
+1,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,149981006,Caesarean section (procedure),B-Conceito Ativo,Y
+2,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,Caesarean section,B-Conceito Ativo,Y
+3,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,CS - Cesarean section,B-Conceito Ativo,Y
+4,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,CS - Caesarean section,B-Conceito Ativo,Y
+5,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,Cesarean section,B-Conceito Ativo,N
+6,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267358000,Caesarean section NOS,C-Conceito Obsoleto,Y
+7,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,156251002,Section - caesarean,C-Conceito Obsoleto,Y
+8,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267352004,Cesarian section delivery,C-Conceito Obsoleto,Y
+9,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267352004,Caesarian section delivery,C-Conceito Obsoleto,Y
+10,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,149981006,Cesarean section,C-Conceito Obsoleto,N
+11,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267352004,Caesarean section,C-Conceito Obsoleto,N
+12,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,156251002,Cesarean section,C-Conceito Obsoleto,N
+13,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,"Cesarean section, NOS",C-Conceito Obsoleto,N
+14,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,156251002,Caesarean section,C-Conceito Obsoleto,N
+15,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,149981006,Caesarean section,C-Conceito Obsoleto,N
+16,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,156259000,Cesarean section NOS,C-Conceito Obsoleto,N
+17,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,11466000,"Caesarean section, NOS",C-Conceito Obsoleto,N
+18,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267358000,Cesarean section NOS,C-Conceito Obsoleto,N
+19,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,156259000,Caesarean section NOS,C-Conceito Obsoleto,N
+20,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267352004,Section - caesarean,C-Conceito Obsoleto,N
+21,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267352004,Section - cesarean,C-Conceito Obsoleto,N
+22,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,156251002,Section - cesarean,C-Conceito Obsoleto,Y
+23,Cesáreas,C0007876,Cesárea,REGRA FILHO,1,267352004,Cesarean section,C-Conceito Obsoleto,N
+24,Paciente,C0030705,Paciente,REGRA DIRETA,0,116154003,Patient (person),A-Conceito Ativo e Totalmente Especificado,Y
+25,Paciente,C0030705,Paciente,REGRA DIRETA,0,116154003,Patient,B-Conceito Ativo,Y
+26,Edema,C1717255,Edema,REGRA DIRETA,0,,,,
+27,Edema,C0013604,EDEMA,REGRA DIRETA,0,267038008,Edema (finding),A-Conceito Ativo e Totalmente Especificado,Y
+28,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Edema (morphologic abnormality),A-Conceito Ativo e Totalmente Especificado,Y
+29,Edema,C0013604,EDEMA,REGRA DIRETA,0,20741006,Hydrops (morphologic abnormality),A-Conceito Ativo e Totalmente Especificado,Y
+30,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Oedematous,B-Conceito Ativo,Y
+31,Edema,C0013604,EDEMA,REGRA DIRETA,0,161988006,Edema NOS (finding),B-Conceito Ativo,Y
+32,Edema,C0013604,EDEMA,REGRA DIRETA,0,139250008,Oedema NOS (finding),B-Conceito Ativo,Y
+33,Edema,C0013604,EDEMA,REGRA DIRETA,0,158244000,[D]Dropsy (situation),B-Conceito Ativo,Y
+34,Edema,C0013604,EDEMA,REGRA DIRETA,0,267038008,Oedema,B-Conceito Ativo,Y
+35,Edema,C0013604,EDEMA,REGRA DIRETA,0,206888002,[D]Edema (situation),B-Conceito Ativo,Y
+36,Edema,C0013604,EDEMA,REGRA DIRETA,0,158241008,[D]Oedema (situation),B-Conceito Ativo,Y
+37,Edema,C0013604,EDEMA,REGRA DIRETA,0,158247007,[D]Oedema NOS (situation),B-Conceito Ativo,Y
+38,Edema,C0013604,EDEMA,REGRA DIRETA,0,267038008,Edema,B-Conceito Ativo,N
+39,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Edema,B-Conceito Ativo,N
+40,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Oedema,B-Conceito Ativo,N
+41,Edema,C0013604,EDEMA,REGRA DIRETA,0,206894005,[D]Edema NOS (situation),B-Conceito Ativo,Y
+42,Edema,C0013604,EDEMA,REGRA DIRETA,0,206891002,[D]Dropsy (situation),B-Conceito Ativo,N
+43,Edema,C0013604,EDEMA,REGRA DIRETA,0,423666004,Edema (observable entity),B-Conceito Ativo,Y
+44,Edema,C0013604,EDEMA,REGRA DIRETA,0,20741006,Dropsy,B-Conceito Ativo,N
+45,Edema,C0013604,EDEMA,REGRA DIRETA,0,20741006,Hydrops,B-Conceito Ativo,N
+46,Edema,C0013604,EDEMA,REGRA DIRETA,0,267038008,Interstitial oedema,B-Conceito Ativo,Y
+47,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Edematous,B-Conceito Ativo,Y
+48,Edema,C0013604,EDEMA,REGRA DIRETA,0,267038008,Interstitial edema,B-Conceito Ativo,Y
+49,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Oedema - lesion,B-Conceito Ativo,Y
+50,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,Edema - lesion,B-Conceito Ativo,Y
+51,Edema,C0013604,EDEMA,REGRA DIRETA,0,206888002,[D]Edema (context-dependent category),C-Conceito Obsoleto,Y
+52,Edema,C0013604,EDEMA,REGRA DIRETA,0,158247007,[D]Oedema NOS,C-Conceito Obsoleto,Y
+53,Edema,C0013604,EDEMA,REGRA DIRETA,0,158244000,[D]Dropsy,C-Conceito Obsoleto,Y
+54,Edema,C0013604,EDEMA,REGRA DIRETA,0,139241006,Edema - symptom,C-Conceito Obsoleto,Y
+55,Edema,C0013604,EDEMA,REGRA DIRETA,0,139241006,Oedema - symptom,C-Conceito Obsoleto,Y
+56,Edema,C0013604,EDEMA,REGRA DIRETA,0,158247007,[D]Edema NOS,C-Conceito Obsoleto,Y
+57,Edema,C0013604,EDEMA,REGRA DIRETA,0,206891002,[D]Dropsy (context-dependent category),C-Conceito Obsoleto,Y
+58,Edema,C0013604,EDEMA,REGRA DIRETA,0,206888002,[D]Oedema,C-Conceito Obsoleto,Y
+59,Edema,C0013604,EDEMA,REGRA DIRETA,0,423666004,Oedema,C-Conceito Obsoleto,N
+60,Edema,C0013604,EDEMA,REGRA DIRETA,0,139241006,Oedema,C-Conceito Obsoleto,N
+61,Edema,C0013604,EDEMA,REGRA DIRETA,0,20741006,"Dropsy, NOS",C-Conceito Obsoleto,N
+62,Edema,C0013604,EDEMA,REGRA DIRETA,0,20741006,"Hydrops, NOS",C-Conceito Obsoleto,N
+63,Edema,C0013604,EDEMA,REGRA DIRETA,0,206891002,[D]Dropsy,C-Conceito Obsoleto,N
+64,Edema,C0013604,EDEMA,REGRA DIRETA,0,158244000,[D]Dropsy,C-Conceito Obsoleto,N
+65,Edema,C0013604,EDEMA,REGRA DIRETA,0,158241008,[D]Oedema,C-Conceito Obsoleto,N
+66,Edema,C0013604,EDEMA,REGRA DIRETA,0,206894005,[D]Edema NOS,C-Conceito Obsoleto,N
+67,Edema,C0013604,EDEMA,REGRA DIRETA,0,206894005,[D]Oedema NOS,C-Conceito Obsoleto,N
+68,Edema,C0013604,EDEMA,REGRA DIRETA,0,158247007,[D]Oedema NOS,C-Conceito Obsoleto,N
+69,Edema,C0013604,EDEMA,REGRA DIRETA,0,161979002,Oedema - symptom,C-Conceito Obsoleto,N
+70,Edema,C0013604,EDEMA,REGRA DIRETA,0,161979002,Edema - symptom,C-Conceito Obsoleto,N
+71,Edema,C0013604,EDEMA,REGRA DIRETA,0,158241008,[D]Edema,C-Conceito Obsoleto,N
+72,Edema,C0013604,EDEMA,REGRA DIRETA,0,266308000,Dropsy,C-Conceito Obsoleto,N
+73,Edema,C0013604,EDEMA,REGRA DIRETA,0,161979002,Edema,C-Conceito Obsoleto,N
+74,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,"Oedema, NOS",C-Conceito Obsoleto,N
+75,Edema,C0013604,EDEMA,REGRA DIRETA,0,155375008,Dropsy,C-Conceito Obsoleto,N
+76,Edema,C0013604,EDEMA,REGRA DIRETA,0,139241006,Edema,C-Conceito Obsoleto,N
+77,Edema,C0013604,EDEMA,REGRA DIRETA,0,423666004,Edema,C-Conceito Obsoleto,N
+78,Edema,C0013604,EDEMA,REGRA DIRETA,0,139250008,Edema NOS,C-Conceito Obsoleto,N
+79,Edema,C0013604,EDEMA,REGRA DIRETA,0,79654002,"Edema, NOS",C-Conceito Obsoleto,N
+80,Edema,C0013604,EDEMA,REGRA DIRETA,0,161979002,Oedema,C-Conceito Obsoleto,N
+81,Edema,C0013604,EDEMA,REGRA DIRETA,0,161988006,Edema NOS,C-Conceito Obsoleto,N
+82,Edema,C0013604,EDEMA,REGRA DIRETA,0,139250008,Oedema NOS,C-Conceito Obsoleto,N
+83,Edema,C0013604,EDEMA,REGRA DIRETA,0,206894005,[D]Edema NOS (context-dependent category),C-Conceito Obsoleto,Y
+84,Edema,C0013604,EDEMA,REGRA DIRETA,0,161988006,Oedema NOS,C-Conceito Obsoleto,N
+85,Edema,C0013604,EDEMA,REGRA DIRETA,0,206888002,[D]Edema,C-Conceito Obsoleto,Y
+86,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Product containing tacrolimus (medicinal product),A-Conceito Ativo e Totalmente Especificado,Y
+87,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,386975001,Tacrolimus (substance),A-Conceito Ativo e Totalmente Especificado,Y
+88,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Tacrolimus,B-Conceito Ativo,N
+89,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,386975001,Tacrolimus,B-Conceito Ativo,N
+90,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Tacrolimus-containing product,B-Conceito Ativo,Y
+91,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Tacrolimus product,B-Conceito Ativo,Y
+92,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Tacrolimus (substance),C-Conceito Obsoleto,N
+93,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Product containing tacrolimus,C-Conceito Obsoleto,Y
+94,Tacrolimo,C0085149,Tacrolimo,REGRA DIRETA,0,109129008,Tacrolimus (product),C-Conceito Obsoleto,Y
+95,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,Electrocardiographic procedure (procedure),A-Conceito Ativo e Totalmente Especificado,Y
+96,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,142007005,Electrocardiography (procedure),B-Conceito Ativo,N
+97,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,146485007,Electrocardiography (procedure),B-Conceito Ativo,N
+98,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,164960001,Electrocardiography NOS (procedure),B-Conceito Ativo,N
+99,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,Electrocardiogram,B-Conceito Ativo,Y
+100,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,164844004,Electrocardiography (procedure),B-Conceito Ativo,Y
+101,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,Electrocardiographic procedure,B-Conceito Ativo,Y
+102,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,ECG (electrocardiography) procedure,B-Conceito Ativo,Y
+103,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,Electrocardiography procedure,B-Conceito Ativo,Y
+104,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,142135006,Electrocardiography NOS (procedure),B-Conceito Ativo,Y
+105,eletrocardiograma,C0013798,ECG,REGRA DIRETA,0,142008000,Electrocardiogram,C-Conceito Obsoleto,N
+106,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,164960001,Electrocardiography NOS,C-Conceito Obsoleto,Y
+107,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,46825001,Electrocardiography,C-Conceito Obsoleto,N
+108,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,142135006,Electrocardiography NOS,C-Conceito Obsoleto,N
+109,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,146485007,Electrocardiography,C-Conceito Obsoleto,N
+110,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,164844004,Electrocardiography,C-Conceito Obsoleto,N
+111,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,142007005,Electrocardiography,C-Conceito Obsoleto,N
+112,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,"Electrocardiogram, NOS",C-Conceito Obsoleto,N
+113,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,271334005,Electrocardiogram,C-Conceito Obsoleto,N
+114,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,"Electrocardiographic procedure, NOS",C-Conceito Obsoleto,N
+115,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,46825001,ECG,C-Conceito Obsoleto,N
+116,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,29303009,EKG,C-Conceito Obsoleto,N
+117,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,46825001,EKG,C-Conceito Obsoleto,N
+118,eletrocardiograma,C1623258,ECG,REGRA DIRETA,0,164960001,Electrocardiography NOS (regime/therapy),C-Conceito Obsoleto,Y
+119,Retorno,,,,,,,,
+120,Curativo,C0013119,Curativos,REGRA FILHO,1,,,,
+121,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,277132007,Therapeutic procedure (procedure),A-Conceito Ativo e Totalmente Especificado,Y
+122,Curativo,C0013119,Curativos,REGRA DIRETA,1,333453004,Medical dressing (physical object),A-Conceito Ativo e Totalmente Especificado,Y
+123,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,276239002,Therapy (regime/therapy),A-Conceito Ativo e Totalmente Especificado,Y
+124,Curativo,C0013119,Curativos,REGRA DIRETA,1,37898001,"Dressing, device (physical object)",B-Conceito Ativo,Y
+125,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,277132007,Procedure - therapeutic,B-Conceito Ativo,Y
+126,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,277132007,Therapeutic procedure,B-Conceito Ativo,N
+127,Curativo,C0013119,Curativos,REGRA DIRETA,1,333453004,Dressings,B-Conceito Ativo,N
+128,Curativo,C0013119,Curativos,REGRA DIRETA,1,333453004,Medical dressing,B-Conceito Ativo,N
+129,Curativo,C0013119,Curativos,REGRA DIRETA,1,360243006,Dressing - item (physical object),B-Conceito Ativo,Y
+130,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,276239002,Therapy,B-Conceito Ativo,N
+131,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,103733002,Therapeutic procedure (procedure),B-Conceito Ativo,N
+132,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,103733002,Therapeutic procedure [Ambiguous],C-Conceito Obsoleto,Y
+133,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,103733002,"Therapy, NOS",C-Conceito Obsoleto,N
+134,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,103733002,Therapy,C-Conceito Obsoleto,N
+135,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,277132007,Therapy,C-Conceito Obsoleto,N
+136,Curativo,C0013119,Curativos,REGRA DIRETA,1,360243006,Dressing - item,C-Conceito Obsoleto,Y
+137,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,266761005,Therapeutic procedure,C-Conceito Obsoleto,N
+138,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,103733002,Therapeutic procedure,C-Conceito Obsoleto,N
+139,Curativo,C0013119,Curativos,REGRA DIRETA,1,37898001,"Dressing, device",C-Conceito Obsoleto,Y
+140,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,266761005,Procedure - therapeutic,C-Conceito Obsoleto,N
+141,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,103733002,"Therapeutic procedure, NOS",C-Conceito Obsoleto,N
+142,Curativo,C0087111,Tratamento,REGRA SINONIMO,0,276239002,Therapy (regime/therapy)(procedure),C-Conceito Obsoleto,Y
+143,Curativo,C0013119,Curativos,REGRA DIRETA,1,37898001,"Dressing, NOS",C-Conceito Obsoleto,N
+144,Curativo,C0013119,Curativos,REGRA DIRETA,1,360243006,Dressing - item,C-Conceito Obsoleto,N
+145,Curativo,C0013119,Curativos,REGRA DIRETA,1,333453004,Dressings (physical object),C-Conceito Obsoleto,Y
+146,Curativo,C0013119,Curativos,REGRA DIRETA,1,37898001,Dressing,C-Conceito Obsoleto,N
+147,Seco,C0013140,Seca,REGRA DIRETA,1,,,,
+148,Seco,C1522384,Sexo,REGRA FILHO,1,,,,
+149,Seco,C0036511,Sebo,REGRA FILHO,1,,,,
+150,Seco,C0007531,Ceco,REGRA FILHO,1,,,,
+151,Seco,C0006141,Seio,REGRA FILHO,1,,,,
+152,Seco,C0013140,Seca,REGRA STEMM,1,,,,
+153,Seco,C0013140,Secas,REGRA STEMM,1,,,,
+154,Seco,C0013140,Secas,REGRA FILHO,1,,,,
+155,Seco,C0013140,Seca,REGRA FILHO,1,,,,
+156,Seco,C0036511,Sebo,REGRA DIRETA,1,51280008,Sebum (substance),A-Conceito Ativo e Totalmente Especificado,Y
+157,Seco,C0006141,Seio,REGRA DIRETA,1,76752008,Breast structure (body structure),A-Conceito Ativo e Totalmente Especificado,Y
+158,Seco,C1522384,Sexo,REGRA DIRETA,1,57312000,Sex structure (body structure),A-Conceito Ativo e Totalmente Especificado,Y
+159,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,Cecum structure (body structure),A-Conceito Ativo e Totalmente Especificado,Y
+160,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,Cecum structure,B-Conceito Ativo,Y
+161,Seco,C0006141,Seio,REGRA DIRETA,1,361079003,Breast anatomy (body structure),B-Conceito Ativo,Y
+162,Seco,C0006141,Seio,REGRA DIRETA,1,76752008,Breast anatomy,B-Conceito Ativo,Y
+163,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,Caecum structure,B-Conceito Ativo,Y
+164,Seco,C1522384,Sexo,REGRA DIRETA,1,57312000,Sex structure,B-Conceito Ativo,Y
+165,Seco,C0006141,Seio,REGRA DIRETA,1,76752008,Breast,B-Conceito Ativo,N
+166,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,Caecum,B-Conceito Ativo,Y
+167,Seco,C0006141,Seio,REGRA DIRETA,1,76752008,Breast structure,B-Conceito Ativo,Y
+168,Seco,C0036511,Sebo,REGRA DIRETA,1,51280008,Sebum,B-Conceito Ativo,N
+169,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,Cecum,B-Conceito Ativo,N
+170,Seco,C0006141,Seio,REGRA DIRETA,1,272669003,Breast structure (body structure),B-Conceito Ativo,N
+171,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,"Cecum, NOS",C-Conceito Obsoleto,N
+172,Seco,C0007531,Ceco,REGRA DIRETA,1,32713005,"Caecum, NOS",C-Conceito Obsoleto,N
+173,Seco,C1522384,Sexo,REGRA DIRETA,1,57312000,Sex,C-Conceito Obsoleto,N
+174,Seco,C1522384,Sexo,REGRA DIRETA,1,57312000,"Sex of individual, NOS",C-Conceito Obsoleto,N
+175,Seco,C1522384,Sexo,REGRA DIRETA,1,57312000,Sex of individual,C-Conceito Obsoleto,Y
+176,Seco,C0006141,Seio,REGRA DIRETA,1,361079003,Breast anatomy,C-Conceito Obsoleto,N
+177,Seco,C0006141,Seio,REGRA DIRETA,1,272669003,Breast structure,C-Conceito Obsoleto,N
+178,Seco,C0006141,Seio,REGRA DIRETA,1,76752008,"Breast, NOS",C-Conceito Obsoleto,N
+179,Seco,C1522384,Sexo,REGRA DIRETA,1,57312000,"Sex, NOS",C-Conceito Obsoleto,N
+180,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Hemodialysis (procedure),A-Conceito Ativo e Totalmente Especificado,Y
+181,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,309432002,Haemodialysis procedure (procedure),B-Conceito Ativo,Y
+182,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Haemodialysis,B-Conceito Ativo,Y
+183,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Extracorporeal haemodialysis,B-Conceito Ativo,Y
+184,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,HD - Hemodialysis,B-Conceito Ativo,Y
+185,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,HD - Haemodialysis,B-Conceito Ativo,Y
+186,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Extracorporeal hemodialysis,B-Conceito Ativo,Y
+187,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Haemodialysis procedure,B-Conceito Ativo,Y
+188,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Hemodialysis procedure,B-Conceito Ativo,Y
+189,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,Hemodialysis (procedure),B-Conceito Ativo,N
+190,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,302497006,Hemodialysis,B-Conceito Ativo,N
+191,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,Hemodialysis (procedure) [Ambiguous],C-Conceito Obsoleto,Y
+192,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,266809003,Haemodialysis,C-Conceito Obsoleto,N
+193,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,151048001,Hemodialysis,C-Conceito Obsoleto,N
+194,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,266809003,Hemodialysis,C-Conceito Obsoleto,N
+195,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,"Hemodialysis, NOS",C-Conceito Obsoleto,N
+196,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,Haemodialysis,C-Conceito Obsoleto,N
+197,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,309432002,Haemodialysis,C-Conceito Obsoleto,N
+198,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,309432002,Haemodialysis procedure,C-Conceito Obsoleto,N
+199,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,151048001,Haemodialysis,C-Conceito Obsoleto,N
+200,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,Extracorporeal hemodialysis,C-Conceito Obsoleto,N
+201,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,309432002,Hemodialysis procedure,C-Conceito Obsoleto,N
+202,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,"Extracorporeal hemodialysis, NOS",C-Conceito Obsoleto,N
+203,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,309432002,Hemodialysis,C-Conceito Obsoleto,N
+204,Hemodiálise,C0019004,Hemodiálise,REGRA DIRETA,0,27392003,Hemodialysis,C-Conceito Obsoleto,N
+205,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,719983008,Breathing process (qualifier value),A-Conceito Ativo e Totalmente Especificado,Y
+206,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,78064003,Respiratory function (observable entity),A-Conceito Ativo e Totalmente Especificado,Y
+207,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,258162000,Inhaling and exhaling (observable entity),A-Conceito Ativo e Totalmente Especificado,Y
+208,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,719983008,Respiration,B-Conceito Ativo,N
+209,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,719983008,Breathing,B-Conceito Ativo,N
+210,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,78064003,Breathing,B-Conceito Ativo,N
+211,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,78064003,Respiratory function,B-Conceito Ativo,Y
+212,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,258162000,Breathing in and out,B-Conceito Ativo,Y
+213,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,258162000,Inhaling and exhaling,B-Conceito Ativo,Y
+214,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,719983008,Breathing process,B-Conceito Ativo,Y
+215,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,78064003,"Respiratory function, NOS",C-Conceito Obsoleto,N
+216,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,258162000,Breathing,C-Conceito Obsoleto,N
+217,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,78064003,"Breathing, NOS",C-Conceito Obsoleto,N
+218,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,258162000,Inhaling and exhaling (qualifier value),C-Conceito Obsoleto,Y
+219,respiraçao espontanea,C0035203,Respiração,REGRA PAI,1,78064003,Respiratory function (function),C-Conceito Obsoleto,Y
+220,dreno de suctor,C0085331,Suctoria,REGRA PAI,0,,,,
+221,dreno de suctor,C0038641,Suctórios,REGRA PAI,1,,,,
+222,repouso no leito,C0004910,Repouso no leito,REGRA DIRETA,0,225316001,Bedrest (regime/therapy),A-Conceito Ativo e Totalmente Especificado,Y
+223,repouso no leito,C0004910,Repouso no leito,REGRA DIRETA,0,225316001,Bedrest,B-Conceito Ativo,N
+224,repouso no leito,C0004910,Repouso no leito,REGRA DIRETA,0,225316001,Bedrest (procedure),C-Conceito Obsoleto,Y
+225,debito hematico,,,,,,,,
+226,debito sanguinolento,,,,,,,,
+227,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,44132006,Abscess (morphologic abnormality),A-Conceito Ativo e Totalmente Especificado,Y
+228,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,128477000,Abscess (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+229,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,44132006,Abscess,B-Conceito Ativo,N
+230,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,128477000,Abscess,B-Conceito Ativo,N
+231,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,200694004,Abscess NOS (disorder),B-Conceito Ativo,Y
+232,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,44132006,Abscess morphology,B-Conceito Ativo,Y
+233,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,267831001,Abscess NOS,C-Conceito Obsoleto,N
+234,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,200694004,Abscess NOS,C-Conceito Obsoleto,N
+235,acesso venoso periferico,C0000833,Abcesso,REGRA PAI,1,156308003,Abscess NOS,C-Conceito Obsoleto,N
+236,amarelo citrico,C0524949,Louro,REGRA SINONIMO,0,,,,
+237,amarelo citrico,C0008865,Cítricos,REGRA PAI,1,78161008,Citrus (organism),A-Conceito Ativo e Totalmente Especificado,Y
+238,amarelo citrico,C0008865,Cítricos,REGRA PAI,1,78161008,Citrus,B-Conceito Ativo,N
+239,amarelo citrico,C0008865,Cítricos,REGRA PAI,1,78161008,"Citrus, NOS",C-Conceito Obsoleto,N
+240,incisao cirurgica abdominal,C0582175,Cirurgiães,REGRA PAI,1,304292004,Surgeon (occupation),A-Conceito Ativo e Totalmente Especificado,Y
+241,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,83578000,Surgical (qualifier value),A-Conceito Ativo e Totalmente Especificado,Y
+242,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,257556004,Surgery (qualifier value),A-Conceito Ativo e Totalmente Especificado,Y
+243,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,387713003,Surgical procedure (procedure),A-Conceito Ativo e Totalmente Especificado,Y
+244,incisao cirurgica abdominal,C1274039,Cirurgia,REGRA PAI,1,394609007,General surgery (qualifier value),A-Conceito Ativo e Totalmente Especificado,Y
+245,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,257556004,Surgery,B-Conceito Ativo,Y
+246,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,387713003,Operation,B-Conceito Ativo,Y
+247,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,83578000,Surgical,B-Conceito Ativo,Y
+248,incisao cirurgica abdominal,C1274039,Cirurgia,REGRA PAI,1,394609007,General surgery,B-Conceito Ativo,Y
+249,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,387713003,Operative procedure,B-Conceito Ativo,Y
+250,incisao cirurgica abdominal,C1274039,Cirurgia,REGRA PAI,1,394294004,General surgery (qualifier value),B-Conceito Ativo,N
+251,incisao cirurgica abdominal,C1274039,Cirurgia,REGRA PAI,1,393344007,General surgery (qualifier value),B-Conceito Ativo,N
+252,incisao cirurgica abdominal,C0582175,Cirurgiães,REGRA PAI,1,304292004,Surgeon,B-Conceito Ativo,N
+253,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,Surgical procedure (procedure),B-Conceito Ativo,N
+254,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,387713003,Surgical procedures,B-Conceito Ativo,Y
+255,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,387713003,Surgical procedure,B-Conceito Ativo,Y
+256,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,171440000,Operative procedures,C-Conceito Obsoleto,Y
+257,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,Operative procedure,C-Conceito Obsoleto,N
+258,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,"Operative procedure, NOS",C-Conceito Obsoleto,N
+259,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,Operation,C-Conceito Obsoleto,N
+260,incisao cirurgica abdominal,C1274039,Cirurgia,REGRA PAI,1,394294004,General surgery,C-Conceito Obsoleto,N
+261,incisao cirurgica abdominal,C1274039,Cirurgia,REGRA PAI,1,393344007,General surgery,C-Conceito Obsoleto,N
+262,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,Surgical procedure,C-Conceito Obsoleto,N
+263,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,"Surgical procedure, NOS",C-Conceito Obsoleto,N
+264,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,171440000,Surgical procedures,C-Conceito Obsoleto,N
+265,incisao cirurgica abdominal,C0543467,Cirurgia,REGRA PAI,1,48692003,"Operation, NOS",C-Conceito Obsoleto,N
+266,evoluçao,C0018270,Crescimento,REGRA SINONIMO,0,,,,
+267,evoluçao,C4300708,Mudança,REGRA SINONIMO,0,,,,
+268,evoluçao,C0018271,Desenvolvimento,REGRA SINONIMO,0,129822005,Growth and development,C-Conceito Obsoleto,N
+269,dia,C0016350,FIA,REGRA DIRETA,1,,,,
+270,dia,C2748507,DIRA,REGRA FILHO,1,,,,
+271,dia,C0011953,Diamida,REGRA STEMM,1,,,,
+272,dia,C0016350,FIA,REGRA STEMM,1,,,,
+273,dia,C0018817,DSA,REGRA STEMM,1,,,,
+274,dia,C0878196,Difos,REGRA STEMM,1,,,,
+275,dia,C0878196,Difos,REGRA FILHO,1,,,,
+276,dia,C0085253,DSIA,REGRA FILHO,1,,,,
+277,dia,C0011953,Diamida,REGRA FILHO,1,,,,
+278,dia,C0016350,FIA,REGRA FILHO,1,,,,
+279,dia,C0018817,DSA,REGRA FILHO,1,,,,
+280,dia,C0860207,DILI,REGRA FILHO,1,,,,
+281,dia,C2748507,DIRA,REGRA STEMM,1,,,,
+282,dia,C0018817,DSA,REGRA DIRETA,1,405752007,Congenital atrial septal defect (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+283,dia,C0018817,DSA,REGRA DIRETA,1,70142008,Atrial septal defect (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+284,dia,C0085253,DSIA,REGRA DIRETA,1,239920006,Adult onset Still's disease (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+285,dia,C0023693,Luz,REGRA SINONIMO,0,56242006,"Light, electromagnetic radiation (physical force)",A-Conceito Ativo e Totalmente Especificado,Y
+286,dia,C0860207,DILI,REGRA STEMM,1,427399008,Drug-induced disorder of liver (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+287,dia,C0018817,DSA,REGRA DIRETA,1,253366007,Interauricular septal defect (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+288,dia,C2748507,DIRA,REGRA DIRETA,1,773702002,Sterile multifocal osteomyelitis with periostitis and pustulosis (disorder),A-Conceito Ativo e Totalmente Especificado,Y
+289,dia,C0018817,DSA,REGRA DIRETA,1,253366007,Interauricular septal defect,B-Conceito Ativo,Y
+290,dia,C0018817,DSA,REGRA DIRETA,1,405752007,Congenital atrial septal defect,B-Conceito Ativo,Y
+291,dia,C0023693,Luz,REGRA SINONIMO,0,56242006,Light - radiation,B-Conceito Ativo,Y
+292,dia,C0018817,DSA,REGRA DIRETA,1,268178001,Atrial septal defect NOS (disorder),B-Conceito Ativo,Y
+293,dia,C2748507,DIRA,REGRA DIRETA,1,773702002,Interleukin-1 receptor antagonist deficiency,B-Conceito Ativo,Y
+294,dia,C0018817,DSA,REGRA DIRETA,1,70142008,Interatrial septal defect,B-Conceito Ativo,Y
+295,dia,C0085253,DSIA,REGRA DIRETA,1,239920006,Adult onset Still's disease,B-Conceito Ativo,Y
+296,dia,C0018817,DSA,REGRA DIRETA,1,70142008,ASD - Atrial septal defect,B-Conceito Ativo,Y
+297,dia,C0018817,DSA,REGRA DIRETA,1,70142008,Atrial septal defect,B-Conceito Ativo,Y
+298,dia,C2748507,DIRA,REGRA DIRETA,1,773702002,Sterile multifocal osteomyelitis with periostitis and pustulosis,B-Conceito Ativo,Y
+299,dia,C2748507,DIRA,REGRA DIRETA,1,773702002,Autoinflammatory disease due to interleukin-1 receptor antagonist deficiency,B-Conceito Ativo,Y
+300,dia,C2748507,DIRA,REGRA DIRETA,1,773702002,"OMPP - sterile osteomyelitis, multifocal with periostitis and pustulosis",B-Conceito Ativo,Y
+301,dia,C0018817,DSA,REGRA DIRETA,1,253368008,Auricular septal defect NOS (disorder),B-Conceito Ativo,Y
+302,dia,C0023693,Luz,REGRA SINONIMO,0,56242006,"Light, electromagnetic radiation",B-Conceito Ativo,Y
+303,dia,C0085253,DSIA,REGRA DIRETA,1,239920006,Wissler-Fanconi syndrome,B-Conceito Ativo,Y
+304,dia,C0860207,DILI,REGRA STEMM,1,427399008,Drug-induced disorder of liver,B-Conceito Ativo,Y
+305,dia,C0085253,DSIA,REGRA DIRETA,1,201449008,Adult onset Still's disease (disorder),B-Conceito Ativo,N
+306,dia,C0085253,DSIA,REGRA DIRETA,1,239920006,Adult onset Still disease,B-Conceito Ativo,Y
+307,dia,C0018817,DSA,REGRA DIRETA,1,156915002,Atrial septal defect (disorder),B-Conceito Ativo,N
+308,dia,C0085253,DSIA,REGRA DIRETA,1,201815006,Adult onset Still's disease (disorder),B-Conceito Ativo,N
+309,dia,C0860207,DILI,REGRA STEMM,1,427399008,Drug induced hepatotoxicity,B-Conceito Ativo,Y
+310,dia,C0023693,Luz,REGRA SINONIMO,0,56242006,Light,B-Conceito Ativo,N
+311,dia,C0018817,DSA,REGRA DIRETA,1,253368008,Auricular septal defect NOS,C-Conceito Obsoleto,Y
+312,dia,C0018817,DSA,REGRA DIRETA,1,204316004,Interauricular septal defect,C-Conceito Obsoleto,N
+313,dia,C0023693,Luz,REGRA SINONIMO,0,56242006,"Light, NOS",C-Conceito Obsoleto,N
+314,dia,C0018817,DSA,REGRA DIRETA,1,69524004,Interatrial septal defect,C-Conceito Obsoleto,N
+315,dia,C0085253,DSIA,REGRA DIRETA,1,201815006,Adult onset Still's disease,C-Conceito Obsoleto,N
+316,dia,C0085253,DSIA,REGRA DIRETA,1,201449008,Adult onset Still's disease,C-Conceito Obsoleto,N
+317,dia,C0018817,DSA,REGRA DIRETA,1,204316004,Auricular septal defect NOS,C-Conceito Obsoleto,N
+318,dia,C0018817,DSA,REGRA DIRETA,1,268178001,Atrial septal defect NOS,C-Conceito Obsoleto,N
+319,dia,C0018817,DSA,REGRA DIRETA,1,156915002,Atrial septal defect,C-Conceito Obsoleto,N
+320,dia,C0018817,DSA,REGRA DIRETA,1,69524004,Atrial septal defect,C-Conceito Obsoleto,N
+321,dia,C0018817,DSA,REGRA DIRETA,1,204316004,Atrial septal defect NOS,C-Conceito Obsoleto,N
+322,centro cirúrgico,C0038942,Centro Cirúrgico,REGRA DIRETA,0,,,,
+323,acordado,,,,,,,,
+324,responsivo,,,,,,,,
+325,esquerda,,,,,,,,
+326,dreno,,,,,,,,
+327,torax,C0817096,Tórax,REGRA DIRETA,0,51185008,Thoracic structure (body structure),A-Conceito Ativo e Totalmente Especificado,Y
+328,torax,C0817096,Tórax,REGRA DIRETA,0,261179002,Thoracic (qualifier value),A-Conceito Ativo e Totalmente Especificado,Y
+329,torax,C0817096,Tórax,REGRA DIRETA,0,51185008,Chest,B-Conceito Ativo,N
+330,torax,C0817096,Tórax,REGRA DIRETA,0,51185008,Thorax,B-Conceito Ativo,N
+331,torax,C0817096,Tórax,REGRA DIRETA,0,261179002,Thoracic,B-Conceito Ativo,Y
+332,torax,C0817096,Tórax,REGRA DIRETA,0,51185008,Thoracic structure,B-Conceito Ativo,Y
+333,torax,C0817096,Tórax,REGRA DIRETA,0,51185008,"Thorax, NOS",C-Conceito Obsoleto,N
+334,membro superior direito,C0015385,Membros,REGRA PAI,1,66019005,Limb structure (body structure),A-Conceito Ativo e Totalmente Especificado,Y
+335,membro superior direito,C0015385,Membros,REGRA PAI,1,66019005,Limb structure,B-Conceito Ativo,N
+336,membro superior direito,C0015385,Membros,REGRA PAI,1,66019005,Extremity,B-Conceito Ativo,Y
+337,membro superior direito,C0015385,Membros,REGRA PAI,1,66019005,Limb,B-Conceito Ativo,Y
+338,membro superior direito,C0015385,Membros,REGRA PAI,1,123169005,Extremity (body structure),B-Conceito Ativo,Y
+339,membro superior direito,C0015385,Membros,REGRA PAI,1,123169005,Extremity,C-Conceito Obsoleto,N
+340,membro superior direito,C0015385,Membros,REGRA PAI,1,123169005,"Extremity, NOS",C-Conceito Obsoleto,N
+341,membro superior direito,C0015385,Membros,REGRA PAI,1,66019005,"Extremity, NOS",C-Conceito Obsoleto,N
+342,membro superior direito,C0015385,Membros,REGRA PAI,1,123169005,"Limb, NOS",C-Conceito Obsoleto,N
+343,membro superior direito,C0015385,Membros,REGRA PAI,1,66019005,"Limb, NOS",C-Conceito Obsoleto,N
+344,membro superior direito,C0015385,Membros,REGRA PAI,1,123169005,Extremity -RETIRED-,C-Conceito Obsoleto,N
+345,membro superior direito,C0015385,Membros,REGRA PAI,1,123169005,Extremity -RETIRED-,C-Conceito Obsoleto,Y
+346,salinizado,,,,,,,,
+347,diurese,C0012797,Diurese,REGRA DIRETA,0,60309003,"Diuresis, function (observable entity)",A-Conceito Ativo e Totalmente Especificado,Y
+348,diurese,C0012797,Diurese,REGRA DIRETA,0,162182005,Diuresis (finding),A-Conceito Ativo e Totalmente Especificado,Y
+349,diurese,C0012797,Diurese,REGRA DIRETA,0,162182005,Diuresis,B-Conceito Ativo,N
+350,diurese,C0012797,Diurese,REGRA DIRETA,0,60309003,Diuresis,B-Conceito Ativo,N
+351,diurese,C0012797,Diurese,REGRA DIRETA,0,139465006,Diuresis (finding),B-Conceito Ativo,N
+352,diurese,C0012797,Diurese,REGRA DIRETA,0,60309003,Urinary flow,B-Conceito Ativo,Y
+353,diurese,C0012797,Diurese,REGRA DIRETA,0,60309003,"Diuresis, function",B-Conceito Ativo,Y
+354,diurese,C0012797,Diurese,REGRA DIRETA,0,139465006,Diuresis,C-Conceito Obsoleto,N
+355,diurese,C0012797,Diurese,REGRA DIRETA,0,60309003,"Diuresis, NOS",C-Conceito Obsoleto,N
+356,diurese,C0012797,Diurese,REGRA DIRETA,0,60309003,Diuresis (function),C-Conceito Obsoleto,Y
