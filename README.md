@@ -13,3 +13,8 @@ São necessários ou 3 arquivos da UMLS (MRCONSO.RRF, MRXW_POR.RRF, MRREL.RRF) o
 [AQUI - DOWNLOAD](https://drive.google.com/drive/folders/1jHeFq_wJufGNS4IRaCBCoyszGZaNZuqU?usp=sharing)
 
 É necessário possuir 4GB de RAM livre.
+
+
+Citação:
+
+Ronnau L. B. MapClin: automatic mapping between clinical terms in Portuguese and Snomed CT. Master Thesis. Pontifical Catholic University of Parana PPGTS (2019).
