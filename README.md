@@ -2,7 +2,7 @@
 
 Mapeamento de termos para UMLS e SNOMED CT.
 
-O código .ipynb possui 3 partes:
+O código .ipynb possui 4 partes:
 - Instalação, com os imports e pip install necessários;
 - Funções e Classes do MapClin;
 - Exemplo de como chamar a função;
