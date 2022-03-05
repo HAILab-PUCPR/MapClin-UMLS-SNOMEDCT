@@ -12,32 +12,26 @@
 10,Curativo,C0013119,Curativos,1-REGRA DIRETA,333453004,Medical dressing (physical object),1.0
 11,Seco,,,,,,
 12,Hemodiálise,C0019004,Hemodiálise,1-REGRA DIRETA,302497006,Hemodialysis (procedure),0.0
-13,respiraçao espontanea,C0035203,Respiração,5-REGRA PAI,719983008,Breathing process (qualifier value),1.0
-14,respiraçao espontanea,C0035203,Respiração,5-REGRA PAI,78064003,Respiratory function (observable entity),1.0
-15,respiraçao espontanea,C0035203,Respiração,5-REGRA PAI,258162000,Inhaling and exhaling (observable entity),1.0
-16,dreno de suctor,C0085331,Suctoria,5-REGRA PAI,,,0.0
-17,dreno de suctor,C0038641,Suctórios,5-REGRA PAI,,,1.0
-18,repouso no leito,C0004910,Repouso no leito,1-REGRA DIRETA,225316001,Bedrest (regime/therapy),0.0
-19,debito hematico,,,,,,
-20,debito sanguinolento,,,,,,
-21,acesso venoso periferico,C0000833,Abcesso,5-REGRA PAI,44132006,Abscess (morphologic abnormality),1.0
-22,acesso venoso periferico,C0000833,Abcesso,5-REGRA PAI,128477000,Abscess (disorder),1.0
-23,amarelo citrico,C0008865,Cítricos,5-REGRA PAI,78161008,Citrus (organism),1.0
-24,incisao cirurgica abdominal,C1274039,Cirurgia,5-REGRA PAI,394609007,General surgery (qualifier value),1.0
-25,incisao cirurgica abdominal,C0543467,Cirurgia,5-REGRA PAI,83578000,Surgical (qualifier value),1.0
-26,incisao cirurgica abdominal,C0543467,Cirurgia,5-REGRA PAI,257556004,Surgery (qualifier value),1.0
-27,incisao cirurgica abdominal,C0543467,Cirurgia,5-REGRA PAI,387713003,Surgical procedure (procedure),1.0
-28,incisao cirurgica abdominal,C0582175,Cirurgiães,5-REGRA PAI,304292004,Surgeon (occupation),1.0
-29,evoluçao,,,,,,
-30,dia,,,,,,
-31,centro cirúrgico,C0038942,Centro Cirúrgico,1-REGRA DIRETA,,,0.0
-32,acordado,,,,,,
-33,responsivo,,,,,,
-34,esquerda,,,,,,
-35,dreno,,,,,,
-36,torax,C0817096,Tórax,1-REGRA DIRETA,51185008,Thoracic structure (body structure),0.0
-37,torax,C0817096,Tórax,1-REGRA DIRETA,261179002,Thoracic (qualifier value),0.0
-38,membro superior direito,C0015385,Membros,5-REGRA PAI,66019005,Limb structure (body structure),1.0
-39,salinizado,,,,,,
-40,diurese,C0012797,Diurese,1-REGRA DIRETA,60309003,"Diuresis, function (observable entity)",0.0
-41,diurese,C0012797,Diurese,1-REGRA DIRETA,162182005,Diuresis (finding),0.0
+13,respiraçao espontanea,C0035203,Respiração,8-REGRA NGRAM,719983008,Breathing process (qualifier value),0.0
+14,respiraçao espontanea,C0035203,Respiração,8-REGRA NGRAM,78064003,Respiratory function (observable entity),0.0
+15,respiraçao espontanea,C0035203,Respiração,8-REGRA NGRAM,258162000,Inhaling and exhaling (observable entity),0.0
+16,dreno de suctor,,,,,,
+17,repouso no leito,C0004910,Repouso no leito,1-REGRA DIRETA,225316001,Bedrest (regime/therapy),0.0
+18,debito hematico,,,,,,
+19,debito sanguinolento,,,,,,
+20,acesso venoso periferico,,,,,,
+21,amarelo citrico,,,,,,
+22,incisao cirurgica abdominal,C0332803,Incisão Cirúrgica,8-REGRA NGRAM,112633009,Surgical wound (morphologic abnormality),0.0
+23,evoluçao,,,,,,
+24,dia,,,,,,
+25,centro cirúrgico,C0038942,Centro Cirúrgico,1-REGRA DIRETA,,,0.0
+26,acordado,,,,,,
+27,responsivo,,,,,,
+28,esquerda,,,,,,
+29,dreno,,,,,,
+30,torax,C0817096,Tórax,1-REGRA DIRETA,51185008,Thoracic structure (body structure),0.0
+31,torax,C0817096,Tórax,1-REGRA DIRETA,261179002,Thoracic (qualifier value),0.0
+32,membro superior direito,C1140618,Membro Superior,8-REGRA NGRAM,53120007,Upper limb structure (body structure),0.0
+33,salinizado,,,,,,
+34,diurese,C0012797,Diurese,1-REGRA DIRETA,60309003,"Diuresis, function (observable entity)",0.0
+35,diurese,C0012797,Diurese,1-REGRA DIRETA,162182005,Diuresis (finding),0.0
