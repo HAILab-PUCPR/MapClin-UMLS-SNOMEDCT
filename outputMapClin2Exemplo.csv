@@ -1,37 +1,339 @@
 ﻿,Termo Buscado,CUI,Termo UMLS,Regra UMLS,Codigo SCT,Termo SCT,Distancia Levenshtein
-0,Cesáreas,C0007876,Cesárea,1-REGRA DIRETA,11466000,Cesarean section (procedure),1.0
-1,Paciente,C0030705,Paciente,1-REGRA DIRETA,116154003,Patient (person),0.0
-2,Edema,C0013604,EDEMA,1-REGRA DIRETA,79654002,Edema (morphologic abnormality),0.0
-3,Edema,C0013604,EDEMA,1-REGRA DIRETA,20741006,Hydrops (morphologic abnormality),0.0
-4,Edema,C0013604,EDEMA,1-REGRA DIRETA,267038008,Edema (finding),0.0
-5,Edema,C1717255,Edema,1-REGRA DIRETA,,,0.0
-6,Tacrolimo,C0085149,Tacrolimo,1-REGRA DIRETA,109129008,Product containing tacrolimus (medicinal product),0.0
-7,Tacrolimo,C0085149,Tacrolimo,1-REGRA DIRETA,386975001,Tacrolimus (substance),0.0
-8,eletrocardiograma,C1623258,ECG,1-REGRA DIRETA,29303009,Electrocardiographic procedure (procedure),0.0
-9,Retorno,,,,,,
-10,Curativo,C0013119,Curativos,1-REGRA DIRETA,333453004,Medical dressing (physical object),1.0
-11,Seco,,,,,,
-12,Hemodiálise,C0019004,Hemodiálise,1-REGRA DIRETA,302497006,Hemodialysis (procedure),0.0
-13,respiraçao espontanea,C0035203,Respiração,8-REGRA NGRAM,719983008,Breathing process (qualifier value),0.0
-14,respiraçao espontanea,C0035203,Respiração,8-REGRA NGRAM,78064003,Respiratory function (observable entity),0.0
-15,respiraçao espontanea,C0035203,Respiração,8-REGRA NGRAM,258162000,Inhaling and exhaling (observable entity),0.0
-16,dreno de suctor,,,,,,
-17,repouso no leito,C0004910,Repouso no leito,1-REGRA DIRETA,225316001,Bedrest (regime/therapy),0.0
-18,debito hematico,,,,,,
-19,debito sanguinolento,,,,,,
-20,acesso venoso periferico,,,,,,
-21,amarelo citrico,,,,,,
-22,incisao cirurgica abdominal,C0332803,Incisão Cirúrgica,8-REGRA NGRAM,112633009,Surgical wound (morphologic abnormality),0.0
-23,evoluçao,,,,,,
-24,dia,,,,,,
-25,centro cirúrgico,C0038942,Centro Cirúrgico,1-REGRA DIRETA,,,0.0
-26,acordado,,,,,,
-27,responsivo,,,,,,
-28,esquerda,,,,,,
-29,dreno,,,,,,
-30,torax,C0817096,Tórax,1-REGRA DIRETA,51185008,Thoracic structure (body structure),0.0
-31,torax,C0817096,Tórax,1-REGRA DIRETA,261179002,Thoracic (qualifier value),0.0
-32,membro superior direito,C1140618,Membro Superior,8-REGRA NGRAM,53120007,Upper limb structure (body structure),0.0
-33,salinizado,,,,,,
-34,diurese,C0012797,Diurese,1-REGRA DIRETA,60309003,"Diuresis, function (observable entity)",0.0
-35,diurese,C0012797,Diurese,1-REGRA DIRETA,162182005,Diuresis (finding),0.0
+0,INTERNOU,,,,,,
+1,HIPOCORADO,,,,,,
+2,lesoes,C3263723,Lesões,1-REGRA DIRETA,417746004,Traumatic injury (disorder),0.0
+3,BIOPSIA,C0005558,Biopsia,1-REGRA DIRETA,129314006,Biopsy - action (qualifier value),0.0
+4,BIOPSIA,C0005558,Biopsia,1-REGRA DIRETA,86273004,Biopsy (procedure),0.0
+5,dopamina,C0013030,Dopamina,1-REGRA DIRETA,59187003,Product containing dopamine (medicinal product),0.0
+6,dopamina,C0013030,Dopamina,1-REGRA DIRETA,412383006,Dopamine (substance),0.0
+7,dislipidemia,C0242339,Dislipidemia,1-REGRA DIRETA,370992007,Dyslipidemia (disorder),0.0
+8,vomitos,C0042963,VOMITOS,1-REGRA DIRETA,300359004,Finding of vomiting (finding),0.0
+9,vomitos,C0042963,VOMITOS,1-REGRA DIRETA,249497008,Vomiting symptom (finding),0.0
+10,vomitos,C0042963,VOMITOS,1-REGRA DIRETA,422400008,Vomiting (disorder),0.0
+11,atorvastatina,C0286651,Atorvastatina,1-REGRA DIRETA,108600003,Product containing atorvastatin (medicinal product),0.0
+12,atorvastatina,C0286651,Atorvastatina,1-REGRA DIRETA,373444002,Atorvastatin (substance),0.0
+13,anos,,,,,,
+14,familia,C0015576,Família,1-REGRA DIRETA,35359004,Family (social concept),0.0
+15,normotenso,,,,,,
+16,sincope,C0039070,SINCOPE,1-REGRA DIRETA,272030005,Syncope symptom (finding),0.0
+17,sincope,C0039070,SINCOPE,1-REGRA DIRETA,309585006,Syncope and collapse (disorder),0.0
+18,sincope,C0039070,SINCOPE,1-REGRA DIRETA,271594007,Syncope (disorder),0.0
+19,HX,C0019621,Histiocitose X,1-REGRA DIRETA,190955000,Histiocytosis X syndrome (disorder),0.0
+20,HX,C0019621,Histiocitose X,1-REGRA DIRETA,39795003,Hand-Schüller-Christian disease (disorder),0.0
+21,HX,C0019621,Histiocitose X,1-REGRA DIRETA,65399007,Langerhans cell histiocytosis (disorder),0.0
+22,HX,C0019621,Histiocitose X,1-REGRA DIRETA,128811003,"Langerhans cell histiocytosis, multifocal (morphologic abnormality)",0.0
+23,HX,C0019621,Histiocitose X,1-REGRA DIRETA,128809007,"Langerhans cell histiocytosis, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",0.0
+24,CILOSTAZOL,C0055729,Cilostazol,1-REGRA DIRETA,395239000,Product containing cilostazol (medicinal product),0.0
+25,CILOSTAZOL,C0055729,Cilostazol,1-REGRA DIRETA,116087001,Cilostazol (substance),0.0
+26,Enfdeg,,,,,,
+27,MEDICO,C0031831,Médico,1-REGRA DIRETA,309343006,Physician (occupation),0.0
+28,CBZ,C0006949,Carbamazepina,1-REGRA DIRETA,40820003,Product containing carbamazepine (medicinal product),0.0
+29,CBZ,C0006949,Carbamazepina,1-REGRA DIRETA,387222003,Carbamazepine (substance),0.0
+30,ESQUERDO,,,,,,
+31,FRALDA,,,,,,
+32,orientacao,C0029266,Orientação,1-REGRA DIRETA,43173001,"Orientation, function (observable entity)",0.0
+33,normocorado,,,,,,
+34,MEDICACAO,C0086597,Mediação,1-REGRA DIRETA,73510009,Mediate (qualifier value),1.0
+35,MEDICACAO,C0150277,Meditação,1-REGRA DIRETA,,,1.0
+36,ANLODIPINO,C0051696,Anlodipino,1-REGRA DIRETA,108537001,Product containing amlodipine (medicinal product),0.0
+37,ANLODIPINO,C0051696,Anlodipino,1-REGRA DIRETA,386864001,Amlodipine (substance),0.0
+38,Prescrevo,,,,,,
+39,palpitacoes,C0030252,PALPITACOES,1-REGRA DIRETA,80313002,Palpitations (finding),0.0
+40,POS-OP,,,,,,
+41,NORMOCORADA,,,,,,
+42,DEAMBULA,,,,,,
+43,MAOS,C0018563,Mãos,1-REGRA DIRETA,85562004,Hand,0.0
+44,Abdome,C0000726,Abdome,1-REGRA DIRETA,818983003,Structure of abdominopelvic cavity and/or content of abdominopelvic cavity and/or anterior abdominal wall (body structure),0.0
+45,selozok,,,,,,
+46,SEDADO,,,,,,
+47,fisioterapia,C0031818,Fisioterapia,1-REGRA DIRETA,,,0.0
+48,fisioterapia,C0949766,Fisioterapia,1-REGRA DIRETA,91251008,Physical therapy procedure (regime/therapy),0.0
+49,DIPIRIDAMOL,C0012582,Dipiridamol,1-REGRA DIRETA,66859009,Product containing dipyridamole (medicinal product),0.0
+50,DIPIRIDAMOL,C0012582,Dipiridamol,1-REGRA DIRETA,387371005,Dipyridamole (substance),0.0
+51,NOITE,,,,,,
+52,HOLTER,,,,,,
+53,digoxina,C0012265,Digoxina,1-REGRA DIRETA,796001,Product containing digoxin (medicinal product),0.0
+54,digoxina,C0012265,Digoxina,1-REGRA DIRETA,387461009,Digoxin (substance),0.0
+55,QUEIXA-SE,,,,,,
+56,ENDO,C0014130,Endo,1-REGRA DIRETA,362969004,Disorder of endocrine system (disorder),0.0
+57,Abdomem,C0000726,Abdome,1-REGRA DIRETA,818983003,Structure of abdominopelvic cavity and/or content of abdominopelvic cavity and/or anterior abdominal wall (body structure),1.0
+58,Abdomem,C0000726,Abdômen,1-REGRA DIRETA,,,1.0
+59,tabagismo,C0040332,Tabagismo,1-REGRA DIRETA,89765005,Tobacco dependence syndrome (disorder),0.0
+60,ORIENTACAO,C0029266,Orientação,1-REGRA DIRETA,43173001,"Orientation, function (observable entity)",0.0
+61,neurocirurgia,C0524850,Neurocirurgia,1-REGRA DIRETA,16545005,Operation on nervous system (procedure),0.0
+62,neurocirurgia,C0027926,Neurocirurgia,1-REGRA DIRETA,394610002,Neurosurgery (qualifier value),0.0
+63,SECA,C0013140,Seca,1-REGRA DIRETA,,,0.0
+64,DEAMBULA,,,,,,
+65,INTERNOU,,,,,,
+66,PERIODO,,,,,,
+67,ticlopidina,C0040207,Ticlopidina,1-REGRA DIRETA,108971003,Product containing ticlopidine (medicinal product),0.0
+68,ticlopidina,C0040207,Ticlopidina,1-REGRA DIRETA,386950000,Ticlopidine (substance),0.0
+69,MPS,,,,,,
+70,ASMA,C0004096,ASMA,1-REGRA DIRETA,195967001,Asthma (disorder),0.0
+71,pupilas isocoricas,,,,,,
+72,IR,C0035078,Insuficiência renal,1-REGRA DIRETA,42399005,Renal failure syndrome (disorder),0.0
+73,IR,C0035078,Insuficiência renal,1-REGRA DIRETA,723188008,Renal insufficiency (disorder),0.0
+74,IR,C1565489,Insuficiência renal,1-REGRA DIRETA,236423003,Renal impairment (disorder),0.0
+75,HEMIMANDIBULECTOMIA DIREITA INTRA ORAL,,,,,,
+76,DTF,,,,,,
+77,mamas lactantes,,,,,,
+78,evacuacao ausente,,,,,,
+79,sucesso angiografico,,,,,,
+80,cateter venoso central duplo-lumen,C0085590,Cateter,8-REGRA NGRAM,19923001,"Catheter, device (physical object)",0.0
+81,tto cx,C0543467,Cirurgia,1-REGRA DIRETA,83578000,Surgical (qualifier value),0.0
+82,tto cx,C0543467,Cirurgia,1-REGRA DIRETA,257556004,Surgery (qualifier value),0.0
+83,tto cx,C0543467,Cirurgia,1-REGRA DIRETA,387713003,Surgical procedure (procedure),0.0
+84,tto cx,C1274039,Cirurgia,1-REGRA DIRETA,394609007,General surgery (qualifier value),0.0
+85,tto cx,C0087111,Tratamento,1-REGRA DIRETA,277132007,Therapeutic procedure (procedure),0.0
+86,tto cx,C0087111,Tratamento,1-REGRA DIRETA,276239002,Therapy (regime/therapy),0.0
+87,Rx torax,C3665494,Radiografia do tórax,1-REGRA DIRETA,303932001,Thoracic cage X-ray (procedure),0.0
+88,Rx torax,C0817096,Tórax,1-REGRA DIRETA,261179002,Thoracic (qualifier value),0.0
+89,Rx torax,C0817096,Tórax,1-REGRA DIRETA,51185008,Thoracic structure (body structure),0.0
+90,Rx torax,C0039985,Radiografia do tórax,1-REGRA DIRETA,399208008,Plain chest X-ray (procedure),0.0
+91,dieta VO,C0012155,Dieta,8-REGRA NGRAM,41829006,Dietary finding (finding),0.0
+92,trach care,,,,,,
+93,RHA HIPOATIVOS,C0086439,Hipoativo,1-REGRA DIRETA,43994002,Behavior showing reduced motor activity (finding),1.0
+94,RHA HIPOATIVOS,C0086439,Hipoativo,1-REGRA DIRETA,255385008,Hypokinetic (qualifier value),1.0
+95,EX FISICO,C0031837,Físico,8-REGRA NGRAM,,,0.0
+96,NS FK,,,,,,
+97,PELE INTEGRA,C1123023,Pele,8-REGRA NGRAM,39937001,Skin structure (body structure),0.0
+98,FAF,C0016139,Armas de Fogo,1-REGRA DIRETA,69861004,"Firearm, device (physical object)",1.0
+99,cintilografia miocardica,C2350391,Cintilografia miocárdica,1-REGRA DIRETA,,,0.0
+100,longa data,,,,,,
+101,rima labial,,,,,,
+102,reg sacra,C0035222,SARA,1-REGRA DIRETA,67782005,Acute respiratory distress syndrome (disorder),1.0
+103,reg sacra,C0036037,Sacro,1-REGRA DIRETA,54735007,Bone structure of sacrum (body structure),1.0
+104,reg sacra,C0205654,Saara,1-REGRA DIRETA,,,1.0
+105,reg sacra,C0242775,Safra,1-REGRA DIRETA,,,1.0
+106,INDICACAO CIRURGICA,,,,,,
+107,IECA,C0003015,Inibidores da Enzima Conversora da Angiotensina,1-REGRA DIRETA,41549009,Product containing angiotensin-converting enzyme inhibitor (product),0.0
+108,IECA,C0003015,Inibidores da Enzima Conversora da Angiotensina,1-REGRA DIRETA,372733002,Substance with angiotensin-converting enzyme inhibitor mechanism of action (substance),0.0
+109,mucosa oral hidratada,C0026724,Mucosa,8-REGRA NGRAM,414781009,Mucous membrane structure (body structure),0.0
+110,mucosa oral hidratada,C0026639,Mucosa Oral,8-REGRA NGRAM,113277000,Oral mucous membrane structure (body structure),0.0
+111,mucosa oral hidratada,C0026724,Mucosa,8-REGRA NGRAM,313268005,Mucosal (qualifier value),0.0
+112,bx renal,C0042075,Renal,1-REGRA DIRETA,41368006,Disorder of urinary tract proper (disorder),0.0
+113,bx renal,C0042075,Renal,1-REGRA DIRETA,128606002,Disorder of the urinary system (disorder),0.0
+114,bx renal,C0194073,Biopsia renal,1-REGRA DIRETA,7246002,Kidney biopsy (procedure),0.0
+115,DOR PRECORDIAL,C0232286,Dor precordial,1-REGRA DIRETA,71884009,Precordial pain (finding),0.0
+116,DOR PRECORDIAL,C3203733,Dor Precordial,1-REGRA DIRETA,,,0.0
+117,TID,C1322279,Dilatação,8-REGRA NGRAM,129419002,Dilation - action (qualifier value),0.0
+118,CEC,C0015354,CEC,1-REGRA DIRETA,182744004,Extracorporeal circulation procedure (procedure),0.0
+119,ra,C0028263,Ruídos,8-REGRA NGRAM,,,0.0
+120,ABO,,,,,,
+121,ACEITANDO DIETA,C0012155,Dieta,8-REGRA NGRAM,41829006,Dietary finding (finding),0.0
+122,TRANSPLANTE RENAL,C0022671,Transplante renal,1-REGRA DIRETA,70536003,Transplant of kidney (procedure),0.0
+123,SNE alimentacao,C5234787,Alimentação,8-REGRA NGRAM,,,0.0
+124,angina instavel,C0002965,Angina instável,1-REGRA DIRETA,25106000,Impending infarction (disorder),0.0
+125,TOSSE PRODUTIVA,C0239134,Tosse produtiva,1-REGRA DIRETA,28743005,Productive cough (finding),0.0
+126,Cx bariatrica,C1456587,Cirurgia bariátrica,1-REGRA DIRETA,426273008,Partitioning of stomach using band (procedure),0.0
+127,Cx bariatrica,C1450026,Bariatria,1-REGRA DIRETA,,,1.0
+128,modo PSV,,,,,,
+129,BOA PERFUSAO PERIFERICA,C0031001,Perfusão,8-REGRA NGRAM,129331004,Perfusion - action (qualifier value),0.0
+130,secrecao traqueobronquica,C2926602,Secreção,8-REGRA NGRAM,,,0.0
+131,BOA ACEITACAO DA DIETA VO,C0012155,Dieta,8-REGRA NGRAM,41829006,Dietary finding (finding),0.0
+132,PARCIAL DE URINA,C0042036,Urina,8-REGRA NGRAM,78014005,Urine (substance),0.0
+133,PSAP,C1168444,Pressão sistólica arterial pulmonar,1-REGRA DIRETA,,,1.0
+134,RHA NORMOATIVOS,C0028263,Ruídos,8-REGRA NGRAM,,,0.0
+135,IC ETIOLOGIA ISQUEMICA,C0018801,Insuficiência cardíaca,8-REGRA NGRAM,84114007,Heart failure (disorder),0.0
+136,IC ETIOLOGIA ISQUEMICA,C0392173,Insuficiência cardíaca,8-REGRA NGRAM,,,0.0
+137,IC ETIOLOGIA ISQUEMICA,C0802663,IC,8-REGRA NGRAM,,,0.0
+138,HVE,C0149721,Hipertrofia do ventrículo esquerdo,1-REGRA DIRETA,55827005,Left ventricular hypertrophy (disorder),0.0
+139,loquios fisiologicos,,,,,,
+140,pos-op,,,,,,
+141,MONITORIZACAO CARDIACA,C0150496,Monitorização cardíaca,1-REGRA DIRETA,23852006,Cardiac monitoring (regime/therapy),0.0
+142,Pi,C0033095,Pressão,8-REGRA NGRAM,279046003,Pressure - physical agent (physical force),0.0
+143,Pi,C0234222,Pressão,8-REGRA NGRAM,397645001,"Baresthesia, function (observable entity)",0.0
+144,cuidados intensivos enfermagem,C0085559,Cuidados Intensivos,8-REGRA NGRAM,,,0.0
+145,cuidados intensivos enfermagem,C0028677,Enfermagem,8-REGRA NGRAM,722165004,Nursing (qualifier value),0.0
+146,cuidados intensivos enfermagem,C0028677,Enfermagem,8-REGRA NGRAM,265937000,Nursing occupation (occupation),0.0
+147,cuidados intensivos enfermagem,C0150499,Cuidados,8-REGRA NGRAM,,,0.0
+148,hipertensão,C0020538,HIPERTENSAO,1-REGRA DIRETA,38341003,"Hypertensive disorder, systemic arterial (disorder)",0.0
+149,feocroocitoma,C4551683,Feocromocitoma,1-REGRA DIRETA,85583005,Pheochromocytoma (morphologic abnormality),1.0
+150,feocroocitoma,C4551683,Feocromocitoma,1-REGRA DIRETA,302835009,Pheochromocytoma (disorder),1.0
+151,hipocalemia,C0020621,Hipocalemia,1-REGRA DIRETA,43339004,Hypokalemia (disorder),0.0
+152,difuso,C0012222,Difusão,1-REGRA DIRETA,46638006,"Diffusion, function (observable entity)",1.0
+153,hipocôndrio,C0020604,Hipocondria,1-REGRA DIRETA,18193002,Hypochondriasis (disorder),1.0
+154,hipertenso,C0020538,HIPERTENSAO,1-REGRA DIRETA,38341003,"Hypertensive disorder, systemic arterial (disorder)",1.0
+155,noturno,,,,,,
+156,uterino,,,,,,
+157,sono,C0037313,Sono,1-REGRA DIRETA,258158006,"Sleep, function (observable entity)",0.0
+158,reativa,,,,,,
+159,afebril,,,,,,
+160,aortico,,,,,,
+161,arterial,C0003842,Artérias,1-REGRA DIRETA,51114001,Arterial structure (body structure),1.0
+162,ronco,C0037384,Ronco,1-REGRA DIRETA,162375000,Snoring symptoms (finding),0.0
+163,ronco,C0037384,Ronco,1-REGRA DIRETA,72863001,Snoring (finding),0.0
+164,ronco,C0035508,Ronco,1-REGRA DIRETA,24612001,Wheeze - rhonchi (finding),0.0
+165,aterosclerose,C0004153,ATEROSCLEROSE,1-REGRA DIRETA,38716007,Atherosclerosis (morphologic abnormality),0.0
+166,corada,,,,,,
+167,hiopoglicemia,C0020615,HIPOGLICEMIA,1-REGRA DIRETA,302866003,Hypoglycemia (disorder),1.0
+168,hiopoglicemia,C0020615,HIPOGLICEMIA,1-REGRA DIRETA,237630007,Hypoglycemic disorder (disorder),1.0
+169,hiopoglicemia,C0020615,HIPOGLICEMIA,1-REGRA DIRETA,271327008,Hypoglycemic syndrome (disorder),1.0
+170,assintomática,C0560175,Assintomático,1-REGRA DIRETA,29679002,Carrier of disorder (finding),1.0
+171,abdominal,,,,,,
+172,maços/dia,,,,,,
+173,depressão,C0011570,DEPRESSAO,1-REGRA DIRETA,154963001,Depression NOS (disorder),0.0
+174,depressão,C0011570,DEPRESSAO,1-REGRA DIRETA,41006004,Depression (finding),0.0
+175,função,C1138843,Funcho,1-REGRA DIRETA,227396003,Fennel (substance),1.0
+176,edema,C0013604,EDEMA,1-REGRA DIRETA,79654002,Edema (morphologic abnormality),0.0
+177,edema,C0013604,EDEMA,1-REGRA DIRETA,20741006,Hydrops (morphologic abnormality),0.0
+178,edema,C0013604,EDEMA,1-REGRA DIRETA,267038008,Edema (finding),0.0
+179,edema,C1717255,Edema,1-REGRA DIRETA,,,0.0
+180,piora,C3852971,Priora,1-REGRA DIRETA,,,1.0
+181,história,C0019664,História,1-REGRA DIRETA,,,0.0
+182,vícios,,,,,,
+183,obesidade,C0028754,OBESIDADE,1-REGRA DIRETA,414916001,Obesity (disorder),0.0
+184,obesidade,C0028754,OBESIDADE,1-REGRA DIRETA,414915002,Obese (finding),0.0
+185,sincope,C0039070,SINCOPE,1-REGRA DIRETA,272030005,Syncope symptom (finding),0.0
+186,sincope,C0039070,SINCOPE,1-REGRA DIRETA,309585006,Syncope and collapse (disorder),0.0
+187,sincope,C0039070,SINCOPE,1-REGRA DIRETA,271594007,Syncope (disorder),0.0
+188,controlada,,,,,,
+189,dlp,C0242339,Dislipidemia,1-REGRA DIRETA,370992007,Dyslipidemia (disorder),0.0
+190,ex-tabagista,,,,,,
+191,dispneia,C0013404,DISPNEIA,1-REGRA DIRETA,267036007,Dyspnea (finding),0.0
+192,dispneia,C0013404,DISPNEIA,1-REGRA DIRETA,230145002,Difficulty breathing (finding),0.0
+193,dispneia,C0027270,DPN,1-REGRA DIRETA,131143000,Nicotinamide adenine dinucleotide (substance),0.0
+194,dispneia,C1956415,DPN,1-REGRA DIRETA,55442000,Paroxysmal nocturnal dyspnea (finding),0.0
+195,tosse,C0010200,TOSSE,1-REGRA DIRETA,263731006,Coughing (observable entity),0.0
+196,tosse,C0010200,TOSSE,1-REGRA DIRETA,49727002,Cough (finding),0.0
+197,feocromocitoma,C4551683,Feocromocitoma,1-REGRA DIRETA,85583005,Pheochromocytoma (morphologic abnormality),0.0
+198,feocromocitoma,C4551683,Feocromocitoma,1-REGRA DIRETA,302835009,Pheochromocytoma (disorder),0.0
+199,hipotireioidismo,C0020676,Hipotireoidismo,1-REGRA DIRETA,40930008,Hypothyroidism (disorder),1.0
+200,proteinúria,C0033687,PROTEINURIA,1-REGRA DIRETA,29738008,Proteinuria (finding),0.0
+201,palpitações,C0030252,PALPITACOES,1-REGRA DIRETA,80313002,Palpitations (finding),0.0
+202,tontura,C0476207,Tontura,1-REGRA DIRETA,404641004,Giddiness (finding),0.0
+203,tontura,C0595963,Tontura,1-REGRA DIRETA,703464007,Wooziness (finding),0.0
+204,tontura,C0012833,TONTURA,1-REGRA DIRETA,404640003,Dizziness (finding),0.0
+205,tontura,C0595963,Tontura,1-REGRA DIRETA,248224004,Muzzy headed (finding),0.0
+206,dor precordial,C0232286,Dor precordial,1-REGRA DIRETA,71884009,Precordial pain (finding),0.0
+207,dor precordial,C3203733,Dor Precordial,1-REGRA DIRETA,,,0.0
+208,asma/dpoc,,,,,,
+209,cushing,,,,,,
+210,hasbled,,,,,,
+211,tromboembolico,,,,,,
+212,apneia do sono,C0037315,Apneia do sono,1-REGRA DIRETA,73430006,Sleep apnea (disorder),0.0
+213,aneurisma fusiforme infrarrenal,C0002940,ANEURISMA,8-REGRA NGRAM,432119003,Aneurysm (disorder),0.0
+214,aneurisma fusiforme infrarrenal,C0002940,ANEURISMA,8-REGRA NGRAM,85659009,Aneurysm (morphologic abnormality),0.0
+215,dispneia aos moderados a grandes esforços,C0013404,DISPNEIA,8-REGRA NGRAM,267036007,Dyspnea (finding),0.0
+216,dispneia aos moderados a grandes esforços,C0013404,DISPNEIA,8-REGRA NGRAM,230145002,Difficulty breathing (finding),0.0
+217,dispneia aos moderados a grandes esforços,C0027270,DPN,8-REGRA NGRAM,131143000,Nicotinamide adenine dinucleotide (substance),0.0
+218,dispneia aos moderados a grandes esforços,C1956415,DPN,8-REGRA NGRAM,55442000,Paroxysmal nocturnal dyspnea (finding),0.0
+219,obesidade centrípeta,C0028754,OBESIDADE,8-REGRA NGRAM,414916001,Obesity (disorder),0.0
+220,obesidade centrípeta,C0028754,OBESIDADE,8-REGRA NGRAM,414915002,Obese (finding),0.0
+221,sopro protosistólico ejetivo com pico meso 3+/6+,,,,,,
+222,controles pressóricos,,,,,,
+223,fa persistente,C0004238,FA,8-REGRA NGRAM,49436004,Atrial fibrillation (disorder),0.0
+224,fa persistente,C0201850,Fosfatase alcalina,8-REGRA NGRAM,88810008,Alkaline phosphatase measurement (procedure),0.0
+225,fa persistente,C0002059,Fosfatase Alcalina,8-REGRA NGRAM,57056007,Alkaline phosphatase (substance),0.0
+226,dlp mista,C1057625,Mirta,1-REGRA DIRETA,,,1.0
+227,dificil palpação,C0030247,Palpação,8-REGRA NGRAM,129434008,Palpation - action (qualifier value),0.0
+228,dificil palpação,C0030247,Palpação,8-REGRA NGRAM,113011001,Palpation (procedure),0.0
+229,alterações da repolarização ventricular,,,,,,
+230,has de provável etiologia secundária,C0020538,Hipertensão arterial,8-REGRA NGRAM,38341003,"Hypertensive disorder, systemic arterial (disorder)",0.0
+231,has de provável etiologia secundária,C0020538,HIPERTENSAO,8-REGRA NGRAM,,,0.0
+232,síndrome de qt longo induzido,C0013216,Quimioterapia,8-REGRA NGRAM,416608005,Drug therapy (procedure),0.0
+233,síndrome de qt longo induzido,C3665472,Quimioterapia,8-REGRA NGRAM,367336001,Chemotherapy (procedure),0.0
+234,síndrome de qt longo induzido,C3665472,Quimioterapia,8-REGRA NGRAM,363688001,Administration of antineoplastic agent (procedure),0.0
+235,síndrome de qt longo induzido,C0023976,Síndrome do QT longo,8-REGRA NGRAM,9651007,Long QT syndrome (disorder),0.0
+236,síndrome de qt longo induzido,C0151878,QT longo,8-REGRA NGRAM,111975006,Prolonged QT interval (finding),0.0
+237,lesão renal,C0160420,Lesão renal,1-REGRA DIRETA,40095003,Injury of kidney (disorder),0.0
+238,drc - estagio 4,C2317473,Doença renal crônica em estágio 4,1-REGRA DIRETA,431857002,Chronic kidney disease stage 4 (disorder),0.0
+239,boa aderência medicamentosa,C0001511,Aderência,8-REGRA NGRAM,42685002,Adhesion (morphologic abnormality),0.0
+240,mv+ em aht s/ra,C1136188,Presentes,8-REGRA NGRAM,,,0.0
+241,sono de boa qualidade,C0037313,Sono,8-REGRA NGRAM,258158006,"Sleep, function (observable entity)",0.0
+242,calcificação valvar,,,,,,
+243,sonolência diurna,C2219848,Sonolência diurna,1-REGRA DIRETA,141000119100,Daytime somnolence (finding),0.0
+244,sopros carotídeos,,,,,,
+245,obesidade grau 2,C0028756,Obesidade Grau 3,1-REGRA DIRETA,83911000119104,Severe obesity (disorder),1.0
+246,obesidade grau 2,C0028756,Obesidade Grau 3,1-REGRA DIRETA,238136002,Morbid obesity (disorder),1.0
+247,pressão elevados,C0033095,Pressão,8-REGRA NGRAM,279046003,Pressure - physical agent (physical force),0.0
+248,pressão elevados,C0234222,Pressão,8-REGRA NGRAM,397645001,"Baresthesia, function (observable entity)",0.0
+249,lesão renal prévia,C0042075,Renal,8-REGRA NGRAM,128606002,Disorder of the urinary system (disorder),0.0
+250,lesão renal prévia,C0042075,Renal,8-REGRA NGRAM,41368006,Disorder of urinary tract proper (disorder),0.0
+251,lesão renal prévia,C0160420,Lesão renal,8-REGRA NGRAM,40095003,Injury of kidney (disorder),0.0
+252,lesão renal prévia,C3263723,Lesão,8-REGRA NGRAM,417746004,Traumatic injury (disorder),0.0
+253,vd normal,,,,,,
+254,condução av variavel,C0004247,Nó AV,8-REGRA NGRAM,25943004,Structure of atrioventricular node (body structure),0.0
+255,has secundária,C0020538,Hipertensão arterial,8-REGRA NGRAM,38341003,"Hypertensive disorder, systemic arterial (disorder)",0.0
+256,has secundária,C0020538,HIPERTENSAO,8-REGRA NGRAM,,,0.0
+257,chadsvasc 2,,,,,,
+258,história patológica pregressa,C0019664,História,8-REGRA NGRAM,,,0.0
+259,angina ortopneia,C0002962,Angina,8-REGRA NGRAM,194828000,Angina (disorder),0.0
+260,angina ortopneia,C0002962,Angina,8-REGRA NGRAM,225566008,Ischemic chest pain (finding),0.0
+261,angina ortopneia,C0085619,Ortopneia,8-REGRA NGRAM,62744007,Orthopnea (finding),0.0
+262,etiologia não definida,,,,,,
+263,obesidade grau ii,C0028756,Obesidade Grau 3,1-REGRA DIRETA,238136002,Morbid obesity (disorder),1.0
+264,obesidade grau ii,C0028756,Obesidade Grau 3,1-REGRA DIRETA,83911000119104,Severe obesity (disorder),1.0
+265,edema em mmii,C0013604,EDEMA,1-REGRA DIRETA,79654002,Edema (morphologic abnormality),0.0
+266,edema em mmii,C0013604,EDEMA,1-REGRA DIRETA,20741006,Hydrops (morphologic abnormality),0.0
+267,edema em mmii,C0013604,EDEMA,1-REGRA DIRETA,267038008,Edema (finding),0.0
+268,edema em mmii,C0239340,Edema dos membros inferiores,1-REGRA DIRETA,102572006,Edema of lower extremity (finding),0.0
+269,edema em mmii,C1717255,Edema,1-REGRA DIRETA,,,0.0
+270,glicemia de jejum alterada,C0005802,Glicemia,8-REGRA NGRAM,,,0.0
+271,glicemia de jejum alterada,C0015663,Jejum,8-REGRA NGRAM,16985007,Fasting (finding),0.0
+272,glicemia de jejum alterada,C0428568,Glicemia em jejum,8-REGRA NGRAM,271062006,Fasting blood glucose measurement (procedure),0.0
+273,glicemia de jejum alterada,C0392201,Glicemia,8-REGRA NGRAM,33747003,"Glucose measurement, blood (procedure)",0.0
+274,descenso noturno,,,,,,
+275,facies cushingoide,C0332601,Fácies cushingóide,1-REGRA DIRETA,67967009,Cushingoid facies (finding),0.0
+276,erisipelas de repetição,,,,,,
+277,lesoes troficas,C3263723,Lesões,8-REGRA NGRAM,417746004,Traumatic injury (disorder),0.0
+278,doença carotídea < 50 %,C0012634,Doença,8-REGRA NGRAM,64572001,Disease (disorder),0.0
+279,etiologia multifatorial,,,,,,
+280,feocroocitoma operado,,,,,,
+281,função renal,C0042075,Renal,8-REGRA NGRAM,41368006,Disorder of urinary tract proper (disorder),0.0
+282,função renal,C0042075,Renal,8-REGRA NGRAM,128606002,Disorder of the urinary system (disorder),0.0
+283,dor torácica,C0008031,Dor Torácica,1-REGRA DIRETA,29857009,Chest pain (finding),0.0
+284,dor torácica,C0235715,Dor torácica,1-REGRA DIRETA,,,0.0
+285,dpn,C0013404,DISPNEIA,1-REGRA DIRETA,230145002,Difficulty breathing (finding),0.0
+286,dpn,C1956415,DPN,1-REGRA DIRETA,55442000,Paroxysmal nocturnal dyspnea (finding),0.0
+287,dpn,C0027270,DPN,1-REGRA DIRETA,131143000,Nicotinamide adenine dinucleotide (substance),0.0
+288,dpn,C0013404,DISPNEIA,1-REGRA DIRETA,267036007,Dyspnea (finding),0.0
+289,dpn,C1956415,Dispneia paroxística noturna,1-REGRA DIRETA,,,0.0
+290,avc,C0038454,Acidente vascular cerebral,1-REGRA DIRETA,230690007,Cerebrovascular accident (disorder),0.0
+291,dm,C0011849,Diabetes mellitus,1-REGRA DIRETA,73211009,Diabetes mellitus (disorder),0.0
+292,fc,C0010674,Fibrose cística,1-REGRA DIRETA,190905008,Cystic fibrosis (disorder),0.0
+293,fc,C0018810,Frequência cardíaca,1-REGRA DIRETA,364075005,Heart rate (observable entity),0.0
+294,sve,C0033036,SVE,1-REGRA DIRETA,287057009,Atrial premature complex (disorder),0.0
+295,sve,C0033036,SVE,1-REGRA DIRETA,284470004,Premature atrial contraction (disorder),0.0
+296,sve,C0033036,SVE,1-REGRA DIRETA,63593006,Supraventricular premature beats (disorder),0.0
+297,sve,C0033036,SVE,1-REGRA DIRETA,406461004,Ectopic atrial beats (disorder),0.0
+298,sve,C0920035,Sobrecarga do ventrículo esquerdo,1-REGRA DIRETA,,,0.0
+299,dm2,C0011860,Diabetes mellitus tipo 2,1-REGRA DIRETA,44054006,Diabetes mellitus type 2 (disorder),1.0
+300,drc,C1561643,Doença renal crônica,1-REGRA DIRETA,709044004,Chronic kidney disease (disorder),0.0
+301,has,C0020538,Hipertensão Arterial Sistêmica,1-REGRA DIRETA,38341003,"Hypertensive disorder, systemic arterial (disorder)",0.0
+302,SAOS,C0520679,Síndrome de apeia obstrutiva do sono,1-REGRA DIRETA,78275009,Obstructive sleep apnea syndrome (disorder),1.0
+303,flutter atrial,C0004239,Flutter atrial,1-REGRA DIRETA,5370000,Atrial flutter (disorder),0.0
+304,estenose de arteria renal à direita,C0042075,Renal,8-REGRA NGRAM,128606002,Disorder of the urinary system (disorder),0.0
+305,estenose de arteria renal à direita,C0042075,Renal,8-REGRA NGRAM,41368006,Disorder of urinary tract proper (disorder),0.0
+306,estenose de arteria renal à direita,C0035067,Estenose da artéria renal,8-REGRA NGRAM,282664001,Renal artery stenosis of unknown cause (disorder),0.0
+307,estenose de arteria renal à direita,C0035067,Estenose da artéria renal,8-REGRA NGRAM,302233006,Renal artery stenosis (disorder),0.0
+308,estenose de arteria renal à direita,C0035065,Artéria Renal,8-REGRA NGRAM,2841007,Structure of renal artery (body structure),0.0
+309,obesidade central,C0311277,Obesidade Central,1-REGRA DIRETA,,,0.0
+310,obesidade central,C4551560,Obesidade central,1-REGRA DIRETA,248311001,Central obesity (disorder),0.0
+311,has renovascular,C0020538,Hipertensão arterial,8-REGRA NGRAM,38341003,"Hypertensive disorder, systemic arterial (disorder)",0.0
+312,has renovascular,C0020538,HIPERTENSAO,8-REGRA NGRAM,,,0.0
+313,edema de mmii vespertino,C0013604,EDEMA,8-REGRA NGRAM,267038008,Edema (finding),0.0
+314,edema de mmii vespertino,C0013604,EDEMA,8-REGRA NGRAM,20741006,Hydrops (morphologic abnormality),0.0
+315,edema de mmii vespertino,C0013604,EDEMA,8-REGRA NGRAM,79654002,Edema (morphologic abnormality),0.0
+316,edema de mmii vespertino,C1717255,Edema,8-REGRA NGRAM,,,0.0
+317,edema de mmii vespertino,C0013604,EDEMA,8-REGRA NGRAM,,,0.0
+318,edema de mmii vespertino,C0023216,Membros Inferiores,8-REGRA NGRAM,61685007,Lower limb structure (body structure),0.0
+319,edema de mmii vespertino,C0085649,Edema dos membros,8-REGRA NGRAM,82014009,Peripheral edema (morphologic abnormality),0.0
+320,edema de mmii vespertino,C0085649,Edema dos membros,8-REGRA NGRAM,271809000,Peripheral edema (disorder),0.0
+321,edema de mmii vespertino,C0239340,Edema dos membros inferiores,8-REGRA NGRAM,102572006,Edema of lower extremity (finding),0.0
+322,edema de mmii vespertino,C0085649,Edema dos membros,8-REGRA NGRAM,424372002,Edema of extremity (finding),0.0
+323,edema de mmii vespertino,C0015385,Membros,8-REGRA NGRAM,66019005,Limb structure (body structure),0.0
+324,intolerante ieca,C0231200,Intolerante,1-REGRA DIRETA,,,0.0
+325,cansaço aos moderados esforços,C0015672,Cansaço,8-REGRA NGRAM,84229001,Fatigue (finding),0.0
+326,cansaço aos moderados esforços,C0015672,Cansaço,8-REGRA NGRAM,248274002,Lack of energy (finding),0.0
+327,edema de mmii 2+,C0013604,EDEMA,8-REGRA NGRAM,267038008,Edema (finding),0.0
+328,edema de mmii 2+,C0013604,EDEMA,8-REGRA NGRAM,20741006,Hydrops (morphologic abnormality),0.0
+329,edema de mmii 2+,C0013604,EDEMA,8-REGRA NGRAM,79654002,Edema (morphologic abnormality),0.0
+330,edema de mmii 2+,C1717255,Edema,8-REGRA NGRAM,,,0.0
+331,edema de mmii 2+,C0013604,EDEMA,8-REGRA NGRAM,,,0.0
+332,edema de mmii 2+,C0023216,Membros Inferiores,8-REGRA NGRAM,61685007,Lower limb structure (body structure),0.0
+333,edema de mmii 2+,C0085649,Edema dos membros,8-REGRA NGRAM,82014009,Peripheral edema (morphologic abnormality),0.0
+334,edema de mmii 2+,C0085649,Edema dos membros,8-REGRA NGRAM,271809000,Peripheral edema (disorder),0.0
+335,edema de mmii 2+,C0239340,Edema dos membros inferiores,8-REGRA NGRAM,102572006,Edema of lower extremity (finding),0.0
+336,edema de mmii 2+,C0085649,Edema dos membros,8-REGRA NGRAM,424372002,Edema of extremity (finding),0.0
+337,edema de mmii 2+,C0015385,Membros,8-REGRA NGRAM,66019005,Limb structure (body structure),0.0
